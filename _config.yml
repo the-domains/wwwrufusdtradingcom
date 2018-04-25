@@ -1,0 +1,62 @@
+typography_spectrum: 0.9721325365826488
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.6155922177713364
+  lightness: 0.2709043307695538
+  saturation: 0.303129127016291
+  rhythmicContrast: 0.2532179714180529
+layout_spectrum: 0.9176929057575762
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e5cc200-7d11-4870-a4f3-6d0c8b727e02.png
+name: Rufusdtrading
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Twitter
+    url: 'https://twitter.com/rufusdtrading'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Trabajo-PARA-Rufusdtrading-147595935922681/'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/rufusdtrading/'
+    type: external
+  - name: Snapchat
+    url: 'https://www.snapchat.com/add/rufusdtrading'
+    type: external
+  - name: Spotify Playlist
+    url: >-
+      https://open.spotify.com/user/21li5c4wsawvpgujaegntl5ei/playlist/0OzjT7tTO2009oEh2zuCAJ?si=4x1EdmmBQvWgRuM6RF0I6
+    type: external
+  - name: Musically
+    url: 'https://www.musical.ly/h5/share/usr/6538217264452211727.html'
+    type: external
+  - name: Mini Vlogs
+    url: 'https://www.youtube.com/playlist?list=PLV73eoRR4tOoZky6lSAzdKouMq2QU70LX'
+    type: external
+  - name: SOBRE MI
+    id: 2e01ec0f-4bff-4dbb-87ab-98c205a3419b
+    type: content
+  - name: Galería
+    id: 69b334f2-72c3-4cdb-84f2-9ec10e117ec9
+    type: content
+title: RUFUSDTRADING / ALEX
+content: []
+description: >-
+  Realizó vídeos tanto en interiores de negocios con el fin de darle VALOR al
+  producto tratado, como en exteriores. Siempre adaptándome al cliente y dando
+  el mayor valor posible y de exposición a través de una gran herramienta como
+  son las REDES SOCIALES.
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b9e6198-7ab1-4936-b5ef-278fd70bddc5.jpg
+github: true
